@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TipOut</string>
+
+    <string name="pool_label">Tip Pool</string>
+    <string name="add_label">Add</string>
+    <string name="remove_label">Remove</string>
+
+    <!-- Error Strings -->
+    <string name="blank_hours_error">Enter Hours!</string>
+    <string name="invalid_hours_error">Invalid hours!</string>
+    <string name="empty_tip_pool_error">Fill Out Tip Pool</string>
+    <string name="empty_list_error">Nothing to remove!</string>
+    <string name="invalid_tip_pool_error">Invalid amount in Tip Pool!</string>
+    <string name="fatal_calculation_error">"Something went wrong!!"</string>
+
+    <string name="employee_label">Employee</string>
+
+    <!-- Payout Activity strings -->
+    <string name="tip_pool_payout">Tip Pool</string>
+    <string name="tip_remainder_payout">Remainder</string>
+    <string name="hours_worked">Hours</string>
+
+    <!-- Intent putExtra Strings DO NOT TRANSLATE-->
+    <string name="tip_pool_extra">tip_pool_to_send</string>
+    <string name="tip_remainder_extra">tip_remainder_to_send</string>
+    <string name="employee_list_extra">employee_list_to_send</string>
+
+</resources>
